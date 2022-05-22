@@ -16,7 +16,7 @@ spectrum of actors in decentralized finance,
 including projects, venture capitals, HNWIs.
 
 ## Quality is what matters to us, Check our reports here 👇🏽👇🏽
-**Audtits** : https://github.com/chain-integrity/audits
+**Audits** : https://github.com/chain-integrity/audits
 
 ## Reach out to us! 🧞‍♂️🧞‍♂️
 **Telegram** : https://t.me/ChainIntegrity
